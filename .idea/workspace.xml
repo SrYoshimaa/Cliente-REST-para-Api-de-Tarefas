@@ -43,6 +43,24 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="218972982">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="134" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="134" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -55,20 +73,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Metodos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1713">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="347">
+              <caret line="124" column="65" selection-start-line="124" selection-start-column="65" selection-end-line="124" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -80,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/TesteApi.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,15 +125,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/Time.java" />
         <option value="$PROJECT_DIR$/src/main/java/Task.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/TesteApi.java" />
         <option value="$PROJECT_DIR$/src/main/java/Metodos.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -148,48 +169,54 @@
     <option name="width" value="666" />
     <option name="height" value="775" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="retrofit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="retrofit" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="retrofit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="retrofit" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="retrofit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="retrofit" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="retrofit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="retrofit" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="retrofit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="retrofit" type="462c0819:PsiDirectoryNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cliente-REST-para-Api-de-Tarefas" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,17 +263,18 @@
       <updated>1541802073623</updated>
       <workItem from="1541802078156" duration="7058000" />
       <workItem from="1541948433147" duration="2743000" />
+      <workItem from="1541951611539" duration="1341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9801000" />
+    <option name="totallyTimeSpent" value="11142000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="1320" height="784" extended-state="7" />
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.15714286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15714286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -328,10 +356,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TesteApi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
-          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -340,18 +375,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Metodos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1713">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="347">
+          <caret line="124" column="65" selection-start-line="124" selection-start-column="65" selection-end-line="124" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>

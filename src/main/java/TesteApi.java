@@ -22,5 +22,5 @@ public interface TesteApi {
 
     @Headers("Student:1111008114")
     @DELETE("tasks/{id}")
-    Call<Task> deletTaskId(@Path("id") String id);
+    Call<Void> deleteTaskId(@Path("id") String id);
 }

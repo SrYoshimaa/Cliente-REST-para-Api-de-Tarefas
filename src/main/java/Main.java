@@ -3,10 +3,9 @@ public class Main {
 
         Metodos metodos = new Metodos();
         metodos.pegatudo();
-        //metodos.CriarTarefa();
-        //metodos.getTaskId();
-        //metodos.updateTaskId();
-
-
+        metodos.CriarTarefa();
+        metodos.getTaskId();
+        metodos.updateTaskId();
+        metodos.deleteTaskId();
     }
 }

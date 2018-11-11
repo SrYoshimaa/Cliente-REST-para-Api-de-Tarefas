@@ -29,7 +29,7 @@ public class Metodos {
             e.printStackTrace();
         }
     }
-    /*
+
     public void CriarTarefa() {
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl("http://ec2-35-166-113-35.us-west-2.compute.amazonaws.com/api/")
@@ -53,6 +53,8 @@ public class Metodos {
 
         } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
 
     public void getTaskId() {
         Retrofit retrofit = new Retrofit.Builder()
@@ -71,8 +73,10 @@ public class Metodos {
 
             System.out.println(t);
 
-        }catch(Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
+        }
+    }
 
     public void updateTaskId() {
         Retrofit retrofit = new Retrofit.Builder()
@@ -101,8 +105,32 @@ public class Metodos {
         } catch (Exception e) {
             e.printStackTrace();
         }
-    }*/
+    }
 
+    public void deleteTaskId(){
 
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl("http://ec2-35-166-113-35.us-west-2.compute.amazonaws.com/api/")
 
+                .addConverterFactory(GsonConverterFactory.create())
+                .build();
+
+        TesteApi api = retrofit.create(TesteApi.class);
+
+        try {
+
+            Call<Void> call = api.deleteTaskId("1356");
+            Response<Void> r = call.execute();
+            r.isSuccessful();
+            if (r.isSuccessful()) {
+                System.out.println("Tarefa foi excluida");
+            }
+            else{
+                System.out.println("Não foi possível achar o ID da tarefa");
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 }
